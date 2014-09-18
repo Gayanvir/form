@@ -7,8 +7,7 @@ int main()
 	cout<<"First C++ Programe\n"; // Single line comment
 	/* Also Valid*/
 	//Read a Number
-	cout<<"Enter a Number : ";
-	cin>>i;
+	
 	cout<<"Your Number is "<<i<<"\n";
 	//Read a String
 	cout<<"Enter Your String : ";
